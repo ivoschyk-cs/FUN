@@ -56,7 +56,7 @@ try
 ## Open the background song
 $script = @'
    $player = New-Object -ComObject 'MediaPlayer.MediaPlayer'
-   $player.Open("https://uzimusic.ru/mp3/1531035/Irina_Allegrova_-_Privet_Andrejj(uzimusic.ru).mp3")
+   $player.Open("https://mp3folders.org.ua/download/22901/11196919.mp3")
    $player
 '@
 
